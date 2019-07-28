@@ -1,0 +1,14 @@
+[
+    {
+        "name": "This should be in both",
+        "price": "and this is details"
+    },
+    {
+        "name": "This is my Title",
+        "price": "and This is where details are"
+    },
+    {
+        "name": "Enter Title",
+        "price": "Enter NOtice Details"
+    }
+]
